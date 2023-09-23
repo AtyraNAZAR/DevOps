@@ -1,0 +1,46 @@
+
+KEYBOARD SHORTCUTS
+Copy
+Mac -> Command+C 
+
+Paste --> Mac-> Commmand+V 
+
+Select All --> Command + V 
+
+Cut -> Command + X
+
+Revert back Command + Z
+New --> Command + N 
+Mac Screeen shot --> Commmand +shift + 4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,3 @@
+# Reassignment in Python
+Variables are simply names pointing to objects.
+Reassignment refers to charching the object
