@@ -55,6 +55,6 @@ https://github.com/AtyraNAZAR/DevOps.git
 
 
 
-https://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:github.com/AtyraNAZAR/DevOps.git
+https://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@github.com/AtyraNAZAR/DevOps.git
 
 
