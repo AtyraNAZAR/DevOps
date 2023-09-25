@@ -24,7 +24,7 @@ Staging are is is like preparation table, where you can line up your changes, ge
 Adds hidden subfolder within the directory that houses the internal data structure required for versions controls.
 
 2. - git add: -> adds all changes in the directory (folder)to the staging area. Iin prepares it for the commit.
-'' git add dit-day4.text''
+'' git add git-day4.text''
 syntax: git add filename
 
 We want to add all the changes to the staging environment.
