@@ -49,3 +49,26 @@ the other is a int type.
 '''py
 print(1 < 2 < 3) # True
 '''
+
+##Note!
+- 'True' numerically equals to '1' and 'False' numerically equals to '0'.
+For ex: 
+'''py
+print(int(True)) ## 1
+print(int(False)) ## 0
+# When using comparison operators between bool and int type
+# python auto-converts tool type to int.
+print(True == 1) # TRue
+print(True > False) # True
+print(False < 3 ) # True
+
+'''
+## Converting Other Types to Bool
+
+- Which function do you think we are going to use to convert other types to boolean?
+**bool()** function.
+'''py
+b = bool(-2)
+print(b) # True
+b1 = bool(0)
+print(b1) # False
