@@ -58,3 +58,11 @@ https://github.com/AtyraNAZAR/DevOps.git
 https://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@github.com/AtyraNAZAR/DevOps.git
 
 
+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
+https://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@github.com/AtyraNAZAR/DevOps.git
+
+
+
+
+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
+https://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@github.com/AtyraNAZAR/DevOps.git

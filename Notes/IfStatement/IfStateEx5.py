@@ -9,3 +9,18 @@
 # Ask user what is the total goal kilogram of the shipment.
 # Print whether they can ship, if they can ship print how many small packages they need. 
 # Assume big packages is used before small packages. 
+
+total_goal_shipment = int(input("Enter the amount of ship,emt in kg: "))
+small_pack = int(input("Enter the small packages in inventary:"))
+big_pack = int(input("Enter the big packages in inventary:"))
+
+
+
+
+
+
+
+
+
+
+

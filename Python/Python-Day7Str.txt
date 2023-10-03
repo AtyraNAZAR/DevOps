@@ -1,0 +1,22 @@
+String variables
+
+How to create a string variable?
+Every thing that is defined within the quotes(single,double,triple) can be assigned to a variable as string value.
+'''py
+s = "This is a string variable"
+print(len(s)) -> 25
+'''
+Note! len() function will give us the total number of characters in string.
+
+We can individually access the characters in string.
+Accessing Elements in String:
+In Order to access elements in string we should use their index nmbers.
+'''py
+#     012345
+pl = "python"
+print(len(pl)) -> 5
+'''
+
+
+
+
