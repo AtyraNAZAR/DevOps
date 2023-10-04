@@ -7,4 +7,5 @@ user_num = int(input("Enter the number"))
 if user_num % 2 == 0: 
     print(user_num * 2)
 elif user_num % 2 != 0:
-    print("You entered odd number")    
+    print("You entered odd number")   
+     
