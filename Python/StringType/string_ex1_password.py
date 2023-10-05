@@ -19,6 +19,26 @@ else:
     print("your password is not valid")
 
 
+    c1 = not user.islower()
+# c1 will be True if ALL the letters in user_pass is lower case. 
+# c1 will be False if user_pass is not in ALL lower case. 
+c2 = not user.isupper() 
+# c2 will be True if ALL the letters in user_pass is upper case. 
+# c2 will be False if user_pass is not in ALL upper case. 
+
+# 1. it has to have an upper case
+# 2. it has to have a lower cas
+
+if c1 and c2:
+    print("your password is valid")
+else:
+    print("your password is NOT valid")
+
+
+print("Tec".lower()) #tec
+print("Tec".islower()) 
+
+
 
 
 

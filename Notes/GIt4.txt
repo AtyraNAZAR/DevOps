@@ -48,21 +48,16 @@ It is a string of characters that represents a specific permission or authorizat
 IN git we can use PAT(Personal Access Token): A sdecure token that users generate to authentication 
 into github account when using HTTPS protocol
 
-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
-https://github.com/AtyraNAZAR/DevOps.git
 
 
 
 
 
-https://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@github.com/AtyraNAZAR/DevOps.git
-
-
-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
-https://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@github.com/AtyraNAZAR/DevOps.git
 
 
 
 
 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
 https://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@github.com/AtyraNAZAR/DevOps.git
+
+https://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@github.com/AtyraNAZAR/DevOps.git
